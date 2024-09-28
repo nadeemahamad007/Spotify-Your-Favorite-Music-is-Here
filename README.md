@@ -50,3 +50,9 @@ Special thanks to [any acknowledgments you want to include].
 **Screenshot**
 ![Spotify-Master](1..png) 
 ![Spotify-Master](2..png) 
+
+**To Use and Update this Project**
+
+Clone the repository:
+   ```bash
+   https://https://github.com/nadeemahamad007/Spotify-Your-Favorite-Music-is-Here
